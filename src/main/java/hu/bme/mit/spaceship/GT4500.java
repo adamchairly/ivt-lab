@@ -6,6 +6,7 @@ package hu.bme.mit.spaceship;
 public class GT4500 implements SpaceShip {
   /*
    * This line was added from branch-A
+   * This line was added from branch-B
    */
   private TorpedoStore primaryTorpedoStore;
   private TorpedoStore secondaryTorpedoStore;
