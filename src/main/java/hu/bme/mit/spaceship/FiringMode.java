@@ -6,8 +6,8 @@ package hu.bme.mit.spaceship;
 */
 public enum FiringMode {
 <<<<<<< HEAD
-  SINGLE, ALL, BRANCHA
+  SINGLE, ALL
 =======
-  SINGLE, ALL, BRANCHB
+  SINGLE, ALL
 >>>>>>> branch-B
 }
